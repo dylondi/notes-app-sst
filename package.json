@@ -13,6 +13,7 @@
     "test": "sst bind vitest run"
   },
   "devDependencies": {
+    "@serverless-stack/static-site-env": "^1.18.4",
     "@tsconfig/node16": "^1.0.3",
     "aws-cdk-lib": "2.72.1",
     "constructs": "10.1.156",
